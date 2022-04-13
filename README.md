@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlonsoUzziel
-- 👀 I’m interested in web developer
+- 👋 Hi, I’m @AlonsoUzziel a FullStack Web Developer
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open source
 
