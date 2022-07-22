@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlonsoUzziel a FullStack Web Developer
+- 👋 Hi, I’m @AlonsoUzziel a FullStack Developer
+- 🌱 I’m developing in android with Java and Kotlin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open source
 
 <!---
